@@ -1,0 +1,5 @@
+{
+  "name": "dropzone",
+  "version": "3.5.3",
+  "main": "lib/dropzone.js"
+}
