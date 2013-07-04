@@ -1,5 +1,10 @@
 {
   "name": "dropzone",
-  "version": "3.6.1",
-  "main": "downloads/dropzone.js"
+  "version": "3.6.2",
+  "main": "downloads/dropzone.js",
+  "ignore": [
+    "lib",
+    "src",
+    "test"
+  ]
 }
